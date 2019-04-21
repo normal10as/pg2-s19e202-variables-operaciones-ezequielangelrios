@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\bin\Debug\netcoreapp2.1\Variables_tipo.deps.json
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\bin\Debug\netcoreapp2.1\Variables_tipo.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\bin\Debug\netcoreapp2.1\Variables_tipo.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\bin\Debug\netcoreapp2.1\Variables_tipo.dll
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\bin\Debug\netcoreapp2.1\Variables_tipo.pdb
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\obj\Debug\netcoreapp2.1\Variables_tipo.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\obj\Debug\netcoreapp2.1\Variables_tipo.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\obj\Debug\netcoreapp2.1\Variables_tipo.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\obj\Debug\netcoreapp2.1\Variables_tipo.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\obj\Debug\netcoreapp2.1\Variables_tipo.dll
+C:\Users\eze_l\source\repos\Programacion2\Variables_tipo\Variables_tipo\obj\Debug\netcoreapp2.1\Variables_tipo.pdb
