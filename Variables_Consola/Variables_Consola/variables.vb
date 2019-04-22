@@ -10,7 +10,7 @@ Module variables
         Nombre = Console.ReadLine()
         Apellido = Console.ReadLine()
         FechaNacimiento = Console.ReadLine()
-        Console.WriteLine("{0}, {1} nació el {2}", Apellido, Nombre, FechaNacimiento)
+        Console.WriteLine(Apellido & " " & Nombre & " " & "nació el " & FechaNacimiento)
         Console.ReadKey()
 
     End Sub

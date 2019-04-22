@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.deps.json
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.dll
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\bin\Debug\netcoreapp2.1\Concatenacion.pdb
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.dll
+C:\Users\eze_l\source\repos\Programacion2\Concatenacion\Concatenacion\obj\Debug\netcoreapp2.1\Concatenacion.pdb

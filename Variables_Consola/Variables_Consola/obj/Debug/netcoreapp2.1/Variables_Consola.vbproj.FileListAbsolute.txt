@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\bin\Debug\netcoreapp2.1\Variables_Consola.deps.json
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\bin\Debug\netcoreapp2.1\Variables_Consola.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\bin\Debug\netcoreapp2.1\Variables_Consola.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\bin\Debug\netcoreapp2.1\Variables_Consola.dll
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\bin\Debug\netcoreapp2.1\Variables_Consola.pdb
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\obj\Debug\netcoreapp2.1\Variables_Consola.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\obj\Debug\netcoreapp2.1\Variables_Consola.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\obj\Debug\netcoreapp2.1\Variables_Consola.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\obj\Debug\netcoreapp2.1\Variables_Consola.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\obj\Debug\netcoreapp2.1\Variables_Consola.dll
+C:\Users\eze_l\source\repos\Programacion2\Variables_Consola\Variables_Consola\obj\Debug\netcoreapp2.1\Variables_Consola.pdb
