@@ -1,6 +1,6 @@
 Imports System
 
-Module Program
+Module Concatenacion
     Sub Main()
         Dim NombreEmpresa As String
         Dim NombreCalle As String
