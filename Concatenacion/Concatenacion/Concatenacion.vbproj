@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Concatenacion</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>Concatenacion.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
