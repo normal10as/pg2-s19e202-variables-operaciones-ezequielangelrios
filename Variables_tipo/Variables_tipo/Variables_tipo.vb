@@ -24,7 +24,7 @@ Module Program
         SiEsArgentino = True
         TemperaturaAmbiente = 22.5
         NombreCalle = "San Ignacio"
-        AlturaCalle = 5045
+        AlturaCalle = 5035
         DistanciaEntreDosCiudades = 12121
         ProfundidadDelMar = 11000
         CantidadDeHabitantes = 44000000
@@ -43,7 +43,7 @@ Module Program
         Console.WriteLine("Profundidad del mar en mts: " & ProfundidadDelMar)
         Console.WriteLine("Cantidad de Habitantes en un Territorio Nacional: " & CantidadDeHabitantes)
         Console.WriteLine("Peso de un producto de un supermercado en Kilogramos: " & PesoProducto)
-        Console.WriteLine("Monto de un articulo de un supermercado: " & MontoArticulo)
+        Console.WriteLine("Monto de un articulo de un supermercado: $" & MontoArticulo)
 
 
 
