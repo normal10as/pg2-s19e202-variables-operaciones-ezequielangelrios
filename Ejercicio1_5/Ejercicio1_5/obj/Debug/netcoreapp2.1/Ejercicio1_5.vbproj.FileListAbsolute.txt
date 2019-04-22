@@ -1,0 +1,10 @@
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\bin\Debug\netcoreapp2.1\Ejercicio1_5.deps.json
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\bin\Debug\netcoreapp2.1\Ejercicio1_5.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\bin\Debug\netcoreapp2.1\Ejercicio1_5.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\bin\Debug\netcoreapp2.1\Ejercicio1_5.dll
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\bin\Debug\netcoreapp2.1\Ejercicio1_5.pdb
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\obj\Debug\netcoreapp2.1\Ejercicio1_5.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\obj\Debug\netcoreapp2.1\Ejercicio1_5.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\obj\Debug\netcoreapp2.1\Ejercicio1_5.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\obj\Debug\netcoreapp2.1\Ejercicio1_5.dll
+C:\Users\eze_l\source\repos\Programacion2\Ejercicio1_5\Ejercicio1_5\obj\Debug\netcoreapp2.1\Ejercicio1_5.pdb
