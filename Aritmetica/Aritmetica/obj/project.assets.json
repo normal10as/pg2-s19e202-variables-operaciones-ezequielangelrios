@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Aritmetica\\Aritmetica\\Aritmetica.vbproj",
+      "projectUniqueName": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Aritmetica\\Aritmetica\\Aritmetica.vbproj",
       "projectName": "Aritmetica",
-      "projectPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Aritmetica\\Aritmetica\\Aritmetica.vbproj",
+      "projectPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Aritmetica\\Aritmetica\\Aritmetica.vbproj",
       "packagesPath": "C:\\Users\\eze_l\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Aritmetica\\Aritmetica\\obj\\",
+      "outputPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Aritmetica\\Aritmetica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

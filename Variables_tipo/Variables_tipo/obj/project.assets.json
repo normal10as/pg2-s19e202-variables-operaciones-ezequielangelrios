@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Variables_tipo\\Variables_tipo\\Variables_tipo.vbproj",
+      "projectUniqueName": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Variables_tipo\\Variables_tipo\\Variables_tipo.vbproj",
       "projectName": "Variables_tipo",
-      "projectPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Variables_tipo\\Variables_tipo\\Variables_tipo.vbproj",
+      "projectPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Variables_tipo\\Variables_tipo\\Variables_tipo.vbproj",
       "packagesPath": "C:\\Users\\eze_l\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Variables_tipo\\Variables_tipo\\obj\\",
+      "outputPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Variables_tipo\\Variables_tipo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

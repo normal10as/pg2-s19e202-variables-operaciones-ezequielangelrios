@@ -8,14 +8,14 @@ Module Program
         Dim FechaDeNacimiento As Date
         Dim AlturaCorporal As Single
         Dim SiEsArgentino As Boolean
-        Dim TemperaturaAmbiente As Single
+        Dim TemperaturaAmbiente As SByte
         Dim NombreCalle As String
         Dim AlturaCalle As UShort
         Dim DistanciaEntreDosCiudades As UShort
-        Dim ProfundidadDelMar As Decimal
-        Dim CantidadDeHabitantes As ULong
-        Dim PesoProducto As Decimal
-        Dim MontoArticulo As Double
+        Dim ProfundidadDelMar As UShort
+        Dim CantidadDeHabitantes As UInteger
+        Dim PesoProducto As Byte
+        Dim MontoArticulo As Decimal
         NombreDeUnaPersona = "Ezequiel"
         NumeroDeDocumento = "40.563.890"
         LugarDeNacimiento = "Hospital Madariaga"
