@@ -7,7 +7,8 @@ Module Concatenacion
         Dim AlturaCalle As UShort
         Dim FechaInicioActividades As Date
 
-        Dim AlturaCalleImplicita As Integer
+        Dim AlturaCallExplicita As String
+        Dim FechaInicioActividadesExplicita As String
 
 
 
@@ -20,25 +21,24 @@ Module Concatenacion
         Console.WriteLine("Igrese la fecha de Inicio de Actividades")
         FechaInicioActividades = Console.ReadLine
 
-        'Conversion Implicita
+        'Conversion explicita
         Console.WriteLine("Conversion Implicita")
 
-        AlturaCalleImplicita = AlturaCalle
+
 
         Console.WriteLine("Nombre de la Empresa: " & NombreEmpresa & " , " & "Inicio de Actividades: " & FechaInicioActividades)
-        Console.WriteLine("Domicilio: " & NombreCalle & " " & "N°" & AlturaCalleImplicita)
+        Console.WriteLine("Domicilio: " & NombreCalle & " " & "N°" & AlturaCalle)
 
         'Conversion Explicita
         Console.WriteLine("Conversion Explicita")
 
-        NombreEmpresa = Convert.ToString("sancor")
-        NombreCalle = Convert.ToString("Corrientes")
-        AlturaCalle = Convert.ToByte(255)
+        FechaInicioActividadesExplicita = Convert.ToString(FechaInicioActividades)
+        AlturaCallExplicita = Convert.ToString(AlturaCalle)
 
         Console.WriteLine("Nombre de la calle " & "ToString: " & NombreCalle)
         Console.WriteLine("Nombre de la Empresa " & "ToString: " & NombreEmpresa)
-        Console.WriteLine("Altura calle: " & "ToByte: " & AlturaCalle)
-        Console.WriteLine("Fecha Inicio de Actividades: " & FechaInicioActividades)
+        Console.WriteLine("Altura calle: " & "ToString: " & AlturaCallExplicita)
+        Console.WriteLine("Fecha Inicio de Actividades: " & FechaInicioActividadesExplicita)
 
 
     End Sub
