@@ -9,3 +9,14 @@ C:\Users\eze_l\source\repos\Programacion2\Tablas de Verdad\Tablas de Verdad\obj\
 C:\Users\eze_l\source\repos\Programacion2\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.AssemblyInfo.vb
 C:\Users\eze_l\source\repos\Programacion2\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.dll
 C:\Users\eze_l\source\repos\Programacion2\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.pdb
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\bin\Debug\netcoreapp2.1\Tablas de Verdad.deps.json
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\bin\Debug\netcoreapp2.1\Tablas de Verdad.runtimeconfig.json
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\bin\Debug\netcoreapp2.1\Tablas de Verdad.runtimeconfig.dev.json
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\bin\Debug\netcoreapp2.1\Tablas de Verdad.dll
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\bin\Debug\netcoreapp2.1\Tablas de Verdad.pdb
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.vbprojAssemblyReference.cache
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.AssemblyInfoInputs.cache
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.AssemblyInfo.vb
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.dll
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\Tablas de Verdad\Tablas de Verdad\obj\Debug\netcoreapp2.1\Tablas de Verdad.pdb

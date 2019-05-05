@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Tablas_de_Verdad</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>Tablas_de_Verdad.Tabla_Booleana</StartupObject>
   </PropertyGroup>
 
 </Project>

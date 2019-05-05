@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Tablas de Verdad\\Tablas de Verdad\\Tablas de Verdad.vbproj": {}
+    "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Tablas de Verdad\\Tablas de Verdad\\Tablas de Verdad.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Tablas de Verdad\\Tablas de Verdad\\Tablas de Verdad.vbproj": {
+    "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Tablas de Verdad\\Tablas de Verdad\\Tablas de Verdad.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Tablas de Verdad\\Tablas de Verdad\\Tablas de Verdad.vbproj",
+        "projectUniqueName": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Tablas de Verdad\\Tablas de Verdad\\Tablas de Verdad.vbproj",
         "projectName": "Tablas de Verdad",
-        "projectPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Tablas de Verdad\\Tablas de Verdad\\Tablas de Verdad.vbproj",
+        "projectPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Tablas de Verdad\\Tablas de Verdad\\Tablas de Verdad.vbproj",
         "packagesPath": "C:\\Users\\eze_l\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Tablas de Verdad\\Tablas de Verdad\\obj\\",
+        "outputPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Tablas de Verdad\\Tablas de Verdad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
