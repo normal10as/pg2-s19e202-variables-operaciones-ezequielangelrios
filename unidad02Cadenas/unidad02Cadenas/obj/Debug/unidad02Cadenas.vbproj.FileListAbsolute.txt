@@ -1,0 +1,11 @@
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\bin\Debug\unidad02Cadenas.exe.config
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\bin\Debug\unidad02Cadenas.exe
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\bin\Debug\unidad02Cadenas.pdb
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\bin\Debug\unidad02Cadenas.xml
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\obj\Debug\unidad02Cadenas.vbprojAssemblyReference.cache
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\obj\Debug\unidad02Cadenas.Resources.resources
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\obj\Debug\unidad02Cadenas.vbproj.GenerateResource.cache
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\obj\Debug\unidad02Cadenas.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\obj\Debug\unidad02Cadenas.exe
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\obj\Debug\unidad02Cadenas.xml
+C:\Users\eze_l\Source\Repos\pg2-s19e202-variables-operaciones-ezequielangelrios\unidad02Cadenas\unidad02Cadenas\obj\Debug\unidad02Cadenas.pdb
