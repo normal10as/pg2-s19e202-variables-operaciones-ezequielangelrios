@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Unidad2Ejercicios</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>Unidad2Ejercicios.TablasBooleanas</StartupObject>
   </PropertyGroup>
 
 </Project>
