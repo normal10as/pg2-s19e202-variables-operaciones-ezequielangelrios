@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Unidad2Ejercicios</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>Unidad2Ejercicios.Resto_Division_1_10</StartupObject>
+    <StartupObject>Unidad2Ejercicios.MatematicaI_1_11</StartupObject>
   </PropertyGroup>
 
 </Project>

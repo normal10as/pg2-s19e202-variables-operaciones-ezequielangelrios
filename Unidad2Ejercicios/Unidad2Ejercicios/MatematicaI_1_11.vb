@@ -4,6 +4,6 @@ Module MatematicaI_1_11
         Dim Valor1 As Short
         Console.WriteLine("Ingrese un valor: ")
         Valor1 = Console.ReadLine
-        Console.WriteLine("Valor Absoluto: ", Abs(Valor1))
+        Console.WriteLine("Valor Absoluto de {0} = {1} ", Valor1, Abs(Valor1))
     End Sub
 End Module
