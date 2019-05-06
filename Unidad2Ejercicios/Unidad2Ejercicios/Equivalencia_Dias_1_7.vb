@@ -1,6 +1,6 @@
 Imports System
 
-Module Equivalencia_Dias
+Module Equivalencia_Dias_1_7
     Const DiasPorSemana As Byte = 7
     Const HorasPorDia As Byte = 24
     Const MinutosPorHora As Byte = 60

@@ -1,4 +1,4 @@
-﻿Module TablasBooleanas
+﻿Module TablasBooleanas_1_8
     Sub Main()
         Dim V, F As Boolean
 

@@ -1,4 +1,4 @@
-﻿Module Interes
+﻿Module Interes_1_9
     Sub Main()
         Dim Monto As Double
         Dim InteresAnual As Double
