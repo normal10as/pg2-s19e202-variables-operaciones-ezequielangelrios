@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5893381A-6F97-4C56-9430-7C8038C4E929}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>unidad02Cadenas.Cadenas1_14</StartupObject>
+    <StartupObject>unidad02Cadenas.Refrase_1_15</StartupObject>
     <RootNamespace>unidad02Cadenas</RootNamespace>
     <AssemblyName>unidad02Cadenas</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -85,6 +85,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Refrase_1_15.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
