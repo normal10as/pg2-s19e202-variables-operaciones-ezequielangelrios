@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Semanas\\Semanas\\Semanas.vbproj",
+      "projectUniqueName": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Semanas\\Semanas\\Semanas.vbproj",
       "projectName": "Semanas",
-      "projectPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Semanas\\Semanas\\Semanas.vbproj",
+      "projectPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Semanas\\Semanas\\Semanas.vbproj",
       "packagesPath": "C:\\Users\\eze_l\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Semanas\\Semanas\\obj\\",
+      "outputPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Semanas\\Semanas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

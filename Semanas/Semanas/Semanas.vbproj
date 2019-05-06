@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Semanas</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>Semanas.equivalencia_dias</StartupObject>
   </PropertyGroup>
 
 </Project>
