@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Unidad2Ejercicios</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>Unidad2Ejercicios.Interes</StartupObject>
+    <StartupObject>Unidad2Ejercicios.Resto_Division</StartupObject>
   </PropertyGroup>
 
 </Project>

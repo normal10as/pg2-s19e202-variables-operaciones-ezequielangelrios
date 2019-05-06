@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Variables_Consola\\Variables_Consola\\Variables_Consola.vbproj",
+      "projectUniqueName": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Variables_Consola\\Variables_Consola\\Variables_Consola.vbproj",
       "projectName": "Variables_Consola",
-      "projectPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Variables_Consola\\Variables_Consola\\Variables_Consola.vbproj",
+      "projectPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Variables_Consola\\Variables_Consola\\Variables_Consola.vbproj",
       "packagesPath": "C:\\Users\\eze_l\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Variables_Consola\\Variables_Consola\\obj\\",
+      "outputPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Variables_Consola\\Variables_Consola\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
