@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Unidad2Ejercicios</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>Unidad2Ejercicios.Reloj1_16</StartupObject>
+    <StartupObject>Unidad2Ejercicios.Equivalencia_Dias_1_7</StartupObject>
   </PropertyGroup>
 
 </Project>
