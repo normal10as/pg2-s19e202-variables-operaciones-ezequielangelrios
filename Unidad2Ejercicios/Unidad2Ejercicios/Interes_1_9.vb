@@ -14,7 +14,7 @@
         Dias = Console.ReadLine
 
         InteresProducido = Monto * InteresAnual * Dias / (360 * 100)
-        CapitalAcumulado = Monto * InteresProducido / 100
+        CapitalAcumulado = Monto + InteresProducido
 
         Console.WriteLine("Interes Producido: " & InteresProducido)
         Console.Write("Capital Acumulado: " & CapitalAcumulado)
