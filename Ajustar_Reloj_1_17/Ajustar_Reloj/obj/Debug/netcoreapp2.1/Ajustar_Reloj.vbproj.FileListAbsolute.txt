@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\bin\Debug\netcoreapp2.1\Ajustar_Reloj.deps.json
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\bin\Debug\netcoreapp2.1\Ajustar_Reloj.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\bin\Debug\netcoreapp2.1\Ajustar_Reloj.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\bin\Debug\netcoreapp2.1\Ajustar_Reloj.dll
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\bin\Debug\netcoreapp2.1\Ajustar_Reloj.pdb
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\obj\Debug\netcoreapp2.1\Ajustar_Reloj.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\obj\Debug\netcoreapp2.1\Ajustar_Reloj.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\obj\Debug\netcoreapp2.1\Ajustar_Reloj.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\obj\Debug\netcoreapp2.1\Ajustar_Reloj.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\obj\Debug\netcoreapp2.1\Ajustar_Reloj.dll
+C:\Users\eze_l\source\repos\Programacion2\pg2-s19e202-variables-operaciones-ezequielangelrios\Ajustar_Reloj_1_17\Ajustar_Reloj\obj\Debug\netcoreapp2.1\Ajustar_Reloj.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\Unidad2Ejercicios.vbproj": {}
+    "C:\\Users\\eze_l\\source\\repos\\Programacion2\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\Unidad2Ejercicios.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\Unidad2Ejercicios.vbproj": {
+    "C:\\Users\\eze_l\\source\\repos\\Programacion2\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\Unidad2Ejercicios.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\Unidad2Ejercicios.vbproj",
+        "projectUniqueName": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\Unidad2Ejercicios.vbproj",
         "projectName": "Unidad2Ejercicios",
-        "projectPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\Unidad2Ejercicios.vbproj",
+        "projectPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\Unidad2Ejercicios.vbproj",
         "packagesPath": "C:\\Users\\eze_l\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eze_l\\Source\\Repos\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\obj\\",
+        "outputPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Unidad2Ejercicios\\Unidad2Ejercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

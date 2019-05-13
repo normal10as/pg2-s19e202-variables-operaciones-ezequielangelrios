@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Ejercicio1_5\\Ejercicio1_5\\Ejercicio1_5.vbproj",
+      "projectUniqueName": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Ejercicio1_5\\Ejercicio1_5\\Ejercicio1_5.vbproj",
       "projectName": "Ejercicio1_5",
-      "projectPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Ejercicio1_5\\Ejercicio1_5\\Ejercicio1_5.vbproj",
+      "projectPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Ejercicio1_5\\Ejercicio1_5\\Ejercicio1_5.vbproj",
       "packagesPath": "C:\\Users\\eze_l\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\Ejercicio1_5\\Ejercicio1_5\\obj\\",
+      "outputPath": "C:\\Users\\eze_l\\source\\repos\\Programacion2\\pg2-s19e202-variables-operaciones-ezequielangelrios\\Ejercicio1_5\\Ejercicio1_5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
